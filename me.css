@@ -1,0 +1,44 @@
+#nieson {
+    color: whitesmoke;
+    font-family: "Jersey 10", sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}
+
+body {
+    background-color: #0437F2;
+}
+
+h2, h3 {
+    color: white;
+    font-family: "Jersey 10";
+    font-weight: 100;
+}
+
+nav a { 
+     color: yellow;
+}
+
+ul {
+    color: yellow;
+}
+
+summary {
+    color: yellow;
+}
+
+p {
+    color: yellow;
+}
+
+form {
+    color: yellow;
+}
+
+a {
+    color: yellow;
+}
+
+footer {
+    color: yellow;
+}
